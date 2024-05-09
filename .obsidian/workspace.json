@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "081a4fd4a00ed403",
+    "type": "split",
+    "children": [
+      {
+        "id": "60096379d36c221e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "451fc7eb6d0e41aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/9. Self-Organizing Map (SOM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55def7a436a9c4b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c9bfa0d48804ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7e1daf278ddc270",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce731c8e945700c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#BMU",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "061ea9399ff3d838",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ecaa31ea74d332d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/IL2233VT24_Lecture_9_slides.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 732.5
+  },
+  "right": {
+    "id": "a4062255a8841793",
+    "type": "split",
+    "children": [
+      {
+        "id": "4988d1ac8c285998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4607867a73f7850",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/9. Self-Organizing Map (SOM).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f60c2b0ac2c2d4e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/9. Self-Organizing Map (SOM).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2540ca90ff50ee2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20a153fe331d680a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/9. Self-Organizing Map (SOM).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "451fc7eb6d0e41aa",
+  "lastOpenFiles": [
+    "Pasted image 20240507155418.png",
+    "Pasted image 20240507155250.png",
+    "Slides/IL2233VT24_Lecture_9_slides.pdf",
+    "Notes/9. Self-Organizing Map (SOM).md",
+    "Pasted image 20240507155103.png",
+    "Pasted image 20240507154827.png",
+    "Pasted image 20240507153649.png",
+    "Pasted image 20240507153549.png",
+    "Pasted image 20240507152856.png",
+    "Pasted image 20240507144046.png",
+    "Pasted image 20240507142332.png",
+    "Pasted image 20240507142137.png",
+    "Pasted image 20240507121636.png",
+    "Notes/8. Clustering algorithms.md",
+    "Slides/IL2233VT24_Lecture_8_slides.pdf",
+    "Notes/3. Basics on Time-Series Analysis.md",
+    "Notes/5. ARIMA Modeling and Prediction.md",
+    "Slides/IL2233VT24_Lecture_6_slides.pdf",
+    "Project/kth-il2233-project/Task1.ipynb",
+    "Project/kth-il2233-project/IL2233VT24_Project.pdf",
+    "Project/kth-il2233-project",
+    "Notes/6. Artificial Neural Networks - From Perceptron to MLP.md",
+    "Slides/IL2233VT24_Lecture_5_slides.pdf",
+    "Slides/IL2233VT24_Lecture_4_slides.pdf",
+    "Notes/4. ARIMA Models and properties.md",
+    "Labs/kth-IL2233-labs/Lab2/task4.ipynb",
+    "Slides/IL2233VT24_Lecture_3_slides.pdf",
+    "Notes/2. Basics on Time-Series Analysis.md",
+    "Notes/7. Recurrent Neural Network - RNN and LSTM.md",
+    "Excalidraw/Drawing 2024-04-12 13.43.49.excalidraw.md",
+    "Notes/1. Course Introduction and Practicalities.md",
+    "Synthesis/7. Complexity Intro - Turing machines and Sorting lower bounds.md",
+    "Synthesis/5. Network Flow.md",
+    "Synthesis/6. Randomized algorithms.md",
+    "Synthesis/4. Dynamic programming.md",
+    "Synthesis/2. Greedy Algorithms.md",
+    "Synthesis/3. Divide and conquer algorithms.md",
+    "Synthesis/Graphs - DSF and BSF.md",
+    "Excalidraw/Drawing 2024-01-29 10.23.26.excalidraw.md",
+    "Synthesis/1 Introduction.md",
+    "Excalidraw/Drawing 2024-01-16 16.06.08.excalidraw.md",
+    "DD2352 - Algorithms and Complexity.md"
+  ]
+}
