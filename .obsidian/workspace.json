@@ -6,6 +6,7 @@
       {
         "id": "60096379d36c221e",
         "type": "tabs",
+        "dimension": 45.39363484087103,
         "children": [
           {
             "id": "451fc7eb6d0e41aa",
@@ -13,13 +14,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/9. Self-Organizing Map (SOM).md",
+                "file": "Notes/8. Clustering algorithms.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "8. Clustering algorithms"
             }
           }
         ]
+      },
+      {
+        "id": "a7348810d376a824",
+        "type": "tabs",
+        "dimension": 54.60636515912897,
+        "children": [
+          {
+            "id": "ab319bc1d8387010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/8. Clustering algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Clustering algorithms"
+            }
+          },
+          {
+            "id": "0757d2005c78133c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/IL2233VT24_Lecture_8_slides.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "IL2233VT24_Lecture_8_slides"
+            }
+          },
+          {
+            "id": "c6cc5e144bd53fa8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-12 13.43.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-04-12 13.43.49.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +88,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,39 +99,32 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BMU",
+                "query": "DTW",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "061ea9399ff3d838",
+            "id": "b56c90c7437e3c51",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "0ecaa31ea74d332d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Slides/IL2233VT24_Lecture_9_slides.pdf"
-              }
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 732.5
+    "width": 297.5
   },
   "right": {
     "id": "a4062255a8841793",
@@ -96,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/9. Self-Organizing Map (SOM).md",
+                "file": "Notes/8. Clustering algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +148,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 8. Clustering algorithms"
             }
           },
           {
@@ -113,10 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/9. Self-Organizing Map (SOM).md",
+                "file": "Notes/8. Clustering algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 8. Clustering algorithms"
             }
           },
           {
@@ -127,7 +175,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -136,8 +186,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/9. Self-Organizing Map (SOM).md"
-              }
+                "file": "Notes/8. Clustering algorithms.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 8. Clustering algorithms"
             }
           }
         ],
@@ -145,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
+    "width": 398.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -161,37 +213,39 @@
   },
   "active": "451fc7eb6d0e41aa",
   "lastOpenFiles": [
-    "Pasted image 20240507155418.png",
-    "Pasted image 20240507155250.png",
-    "Slides/IL2233VT24_Lecture_9_slides.pdf",
-    "Notes/9. Self-Organizing Map (SOM).md",
-    "Pasted image 20240507155103.png",
-    "Pasted image 20240507154827.png",
-    "Pasted image 20240507153649.png",
-    "Pasted image 20240507153549.png",
-    "Pasted image 20240507152856.png",
-    "Pasted image 20240507144046.png",
-    "Pasted image 20240507142332.png",
-    "Pasted image 20240507142137.png",
-    "Pasted image 20240507121636.png",
-    "Notes/8. Clustering algorithms.md",
+    "Pasted image 20241111154334.png",
+    "Pasted image 20241111154320.png",
     "Slides/IL2233VT24_Lecture_8_slides.pdf",
-    "Notes/3. Basics on Time-Series Analysis.md",
-    "Notes/5. ARIMA Modeling and Prediction.md",
-    "Slides/IL2233VT24_Lecture_6_slides.pdf",
-    "Project/kth-il2233-project/Task1.ipynb",
-    "Project/kth-il2233-project/IL2233VT24_Project.pdf",
-    "Project/kth-il2233-project",
-    "Notes/6. Artificial Neural Networks - From Perceptron to MLP.md",
-    "Slides/IL2233VT24_Lecture_5_slides.pdf",
-    "Slides/IL2233VT24_Lecture_4_slides.pdf",
-    "Notes/4. ARIMA Models and properties.md",
-    "Labs/kth-IL2233-labs/Lab2/task4.ipynb",
-    "Slides/IL2233VT24_Lecture_3_slides.pdf",
-    "Notes/2. Basics on Time-Series Analysis.md",
-    "Notes/7. Recurrent Neural Network - RNN and LSTM.md",
+    "Notes/8. Clustering algorithms.md",
+    "Pasted image 20241111153852.png",
+    "Pasted image 20241111153742.png",
+    "Pasted image 20241111152704.png",
+    "Pasted image 20241111151620.png",
     "Excalidraw/Drawing 2024-04-12 13.43.49.excalidraw.md",
+    "Pasted Image 20241111151613_662.png",
+    "Pasted Image 20241111151556_330.png",
+    "Pasted image 20241111151333.png",
+    "img/Pasted image 20241111113137.png",
+    "img/Pasted image 20241111112631.png",
+    "Slides/IL2233VT24_Lecture_3_slides.pdf",
+    "Slides/IL2233VT24_Lecture_7_slides.pdf",
+    "Notes/6. Artificial Neural Networks - From Perceptron to MLP.md",
+    "Notes/5. ARIMA Modeling and Prediction.md",
+    "Notes/4. ARIMA Models and properties.md",
+    "Notes/9. Self-Organizing Map (SOM).md",
+    "Notes/3. Basics on Time-Series Analysis.md",
+    "Notes/2. Basics on Time-Series Analysis.md",
     "Notes/1. Course Introduction and Practicalities.md",
+    "Lab/Lab3/Task2, 3/Task2.cpp",
+    "Lab/Lab3/Task2, 3/Task2-time.cpp",
+    "Lab/Lab3/Task2, 3/task2",
+    "Lab/Lab3/Task2, 3/readme",
+    "Lab/Lab3/Task2, 3/plot_som.py",
+    "Lab/Lab3/Task2, 3/plot_kmeans.py",
+    "Lab/Lab3/Task2, 3/makefile",
+    "Lab/Lab2/readme.md",
+    "Lab/Lab1/readme.md",
+    "Notes/7. Recurrent Neural Network - RNN and LSTM.md",
     "Synthesis/7. Complexity Intro - Turing machines and Sorting lower bounds.md",
     "Synthesis/5. Network Flow.md",
     "Synthesis/6. Randomized algorithms.md",

@@ -1,0 +1,9 @@
+- Task1.cpp contains the code related to task 1
+- Task2.cpp contains the code related to task 2
+- task2.ipynb contains the python code related to task 2
+- utils contains some functions to read the dataset
+
+To run the cpp code, use the makefile commands:
+- make clean
+- make task1
+- make task2
